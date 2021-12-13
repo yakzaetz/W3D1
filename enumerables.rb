@@ -8,3 +8,5 @@ class Array
         return self
     end
 end
+
+#spooky shit
