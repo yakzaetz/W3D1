@@ -1,7 +1,7 @@
 class Array
     def my_each
         i = 0
-        while i < arr.length
+        while i < self.length
             puts self[i]
             i += 1
         end
@@ -10,3 +10,5 @@ class Array
 end
 
 #spooky shit
+arr = [1, 2, 3]
+arr.my_each
