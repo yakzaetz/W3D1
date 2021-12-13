@@ -32,7 +32,7 @@ class Array
         count == self.length
     end
 
-    
+
 
 
 
