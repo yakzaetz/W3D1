@@ -12,3 +12,5 @@ end
 #spooky shit
 arr = [1, 2, 3]
 arr.my_each
+
+#aladeen mf
